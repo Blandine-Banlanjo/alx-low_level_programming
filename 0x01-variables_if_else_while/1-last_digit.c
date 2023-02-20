@@ -1,4 +1,3 @@
-#include <std::rand>
 #include <time.h>
 #include <stdio.h>
 
